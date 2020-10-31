@@ -5,3 +5,7 @@ a = "This is an awesome house"
 var nextHouse = function() {
     a = "This is another house"
     };
+
+    var lisaHouse = function() {
+        b = "This is Lisa's house"
+        };
