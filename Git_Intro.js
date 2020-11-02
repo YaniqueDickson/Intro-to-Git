@@ -15,3 +15,13 @@ var lisaHouse = function() {
 var lisaTestFour = function() {
     b = "This is Lisa's house"
 };
+var lisaTestFive = function() {
+    b = "This is Lisa's house 5."
+};
+
+var lisaTestSix = function() {
+    b = "This is Lisa's house 5."
+};
+var lisaTestSeven = function() {
+    b = "This is Lisa's house 5."
+};
