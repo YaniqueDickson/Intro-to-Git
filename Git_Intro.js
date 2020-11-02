@@ -11,3 +11,7 @@ var nextHouse = function() {
 var lisaHouse = function() {
     b = "This is Lisa's house"
 };
+
+var lisaTestFour = function() {
+    b = "This is Lisa's house"
+};
