@@ -25,3 +25,6 @@ var lisaTestSix = function() {
 var lisaTestSeven = function() {
     b = "This is Lisa's house 5."
 };
+var lisaTestEight = function() {
+    b = "This is Lisa's house 8."
+};
